@@ -25,5 +25,5 @@ mahasiswa::mahasiswa(string iNama){
 }
 
 int main(){
-    
+
 }
